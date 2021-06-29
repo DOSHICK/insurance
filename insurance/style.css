@@ -495,7 +495,7 @@ footer .container .footer-col:last-child li a {
 
 /*   offer block   */
 .offer {
-  background: url("src/img/offer-background.png");
+  background: url("src/img/offer-background.jpg");
   background-size: cover;
   width: 100%;
   min-height: 650px;
