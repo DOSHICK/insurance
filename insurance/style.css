@@ -853,19 +853,19 @@ footer .container .footer-col:last-child li a {
 }
 
 .inform .container-fluid .inform__list .inform__item_1 {
-  background: url("../../../src/img/industry_cover_1.png");
+  background: url("src/img/industry_cover_1.png");
 }
 
 .inform .container-fluid .inform__list .inform__item_2 {
-  background: url("../../../src/img/industry_cover_2.png");
+  background: url("src/img/industry_cover_2.png");
 }
 
 .inform .container-fluid .inform__list .inform__item_3 {
-  background: url("../../../src/img/industry_cover_3.png");
+  background: url("src/img/industry_cover_3.png");
 }
 
 .inform .container-fluid .inform__list .inform__item_4 {
-  background: url("../../../src/img/industry_cover_4.png");
+  background: url("src/img/industry_cover_4.png");
 }
 
 .pricing {
@@ -935,7 +935,7 @@ footer .container .footer-col:last-child li a {
   margin: 0px 0px 15px 0px;
   text-align: start;
   padding: 0px 0px 0px 42px;
-  background: url("../../../src/img/icons/price_item_dis.svg");
+  background: url("src/img/icons/price_item_dis.svg");
   background-position: left;
   background-repeat: no-repeat;
   background-size: contain;
@@ -943,7 +943,7 @@ footer .container .footer-col:last-child li a {
 }
 
 .price__block .price__list .price__item_active {
-  background: url("../../../src/img/icons/price_item_act.svg");
+  background: url("src/img/icons/price_item_act.svg");
   background-repeat: no-repeat;
   background-size: contain;
   background-position: left;
