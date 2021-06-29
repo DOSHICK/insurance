@@ -853,19 +853,19 @@ footer .container .footer-col:last-child li a {
 }
 
 .inform .container-fluid .inform__list .inform__item_1 {
-  background: url("src/img/industry_cover_1.png");
+  background: url("src/img/industry_cover_1.jpg");
 }
 
 .inform .container-fluid .inform__list .inform__item_2 {
-  background: url("src/img/industry_cover_2.png");
+  background: url("src/img/industry_cover_2.jpg");
 }
 
 .inform .container-fluid .inform__list .inform__item_3 {
-  background: url("src/img/industry_cover_3.png");
+  background: url("src/img/industry_cover_3.jpg");
 }
 
 .inform .container-fluid .inform__list .inform__item_4 {
-  background: url("src/img/industry_cover_4.png");
+  background: url("src/img/industry_cover_4.jpg");
 }
 
 .pricing {
